@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-20T18:33:29.657781900Z</date>
+  <millis>1682015609657</millis>
+  <nanos>781900</nanos>
+  <sequence>0</sequence>
+  <logger>homework_5</logger>
+  <level>INFO</level>
+  <class>homework_5</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 0, 6, 0, 6, 3]</message>
+</record>
+<record>
+  <date>2023-04-20T18:33:29.721611Z</date>
+  <millis>1682015609721</millis>
+  <nanos>611000</nanos>
+  <sequence>1</sequence>
+  <logger>homework_5</logger>
+  <level>INFO</level>
+  <class>homework_5</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[6, 0, 3, 0, 6, 3]</message>
+</record>
+<record>
+  <date>2023-04-20T18:33:29.721611Z</date>
+  <millis>1682015609721</millis>
+  <nanos>611000</nanos>
+  <sequence>2</sequence>
+  <logger>homework_5</logger>
+  <level>INFO</level>
+  <class>homework_5</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[0, 6, 3, 0, 6, 3]</message>
+</record>
+<record>
+  <date>2023-04-20T18:33:29.722609900Z</date>
+  <millis>1682015609722</millis>
+  <nanos>609900</nanos>
+  <sequence>3</sequence>
+  <logger>homework_5</logger>
+  <level>INFO</level>
+  <class>homework_5</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[0, 3, 6, 0, 6, 3]</message>
+</record>
+<record>
+  <date>2023-04-20T18:33:29.723606500Z</date>
+  <millis>1682015609723</millis>
+  <nanos>606500</nanos>
+  <sequence>4</sequence>
+  <logger>homework_5</logger>
+  <level>INFO</level>
+  <class>homework_5</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[0, 0, 6, 3, 6, 3]</message>
+</record>
+<record>
+  <date>2023-04-20T18:33:29.724603300Z</date>
+  <millis>1682015609724</millis>
+  <nanos>603300</nanos>
+  <sequence>5</sequence>
+  <logger>homework_5</logger>
+  <level>INFO</level>
+  <class>homework_5</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[0, 0, 3, 6, 6, 3]</message>
+</record>
+<record>
+  <date>2023-04-20T18:33:29.725600700Z</date>
+  <millis>1682015609725</millis>
+  <nanos>600700</nanos>
+  <sequence>6</sequence>
+  <logger>homework_5</logger>
+  <level>INFO</level>
+  <class>homework_5</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[0, 0, 3, 3, 6, 6]</message>
+</record>
+</log>

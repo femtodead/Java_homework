@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-20T19:27:22.478203100Z</date>
+  <millis>1682018842478</millis>
+  <nanos>203100</nanos>
+  <sequence>0</sequence>
+  <logger>homework_3</logger>
+  <level>INFO</level>
+  <class>homework_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>1+1=2.0|2+2=4.0|3+3=6.0|</message>
+</record>
+</log>
