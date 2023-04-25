@@ -9,7 +9,7 @@ import java.util.logging.XMLFormatter;
 // 2.Реализуйте алгоритм сортировки пузырьком числового массива, результат после каждой итерации запишите в лог-файл.
 public class homework_5 
 {
-    public static ArrayList RandomArray(ArrayList list, int length, int min, int max) 
+    public static ArrayList<Integer> RandomArray(ArrayList<Integer> list, int length, int min, int max) 
     {
         Random rend = new Random();
         for (int i = 0; i < length; i++) 
