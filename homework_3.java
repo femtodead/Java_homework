@@ -47,7 +47,7 @@ public class homework_3 {
                 System.out.println("Тепеь а = " + br);
                 System.out.print("Введите число b: ");
                 b = iScanner.nextLine();
-                if (ch.equals("stop")) break;
+                if (b.equals("stop")) break;
             } 
              switch (ch) {
                 case "+":
